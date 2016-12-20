@@ -13,7 +13,7 @@ This project try to solve the competition [Warm Up: Predict Blood Donations](htt
 
 ### Steps
 
-1. $ cd <repo path>
+1. $ cd your/repo/path
 2. $ jupyter notebook
 3. Go to browser and enter [localhost:8888](http://localhost:8888) to access notebooks
 
